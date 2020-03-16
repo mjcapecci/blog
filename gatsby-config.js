@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Michael Capecci: Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Michael Capecci`,
+      summary: `who lives in the Chicago area and is always trying to dive into new development topics.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `The blog of Michael Capecci.`,
+    siteUrl: "https://optimistic-agnesi-270313.netlify.com/",
     social: {
-      twitter: `kylemathews`,
+      twitter: `MichaelCapecci`,
     },
   },
   plugins: [
@@ -61,8 +61,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Michael Capecci: Blog`,
+        short_name: `Michael Capecci`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
@@ -77,8 +77,5 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
   ],
 }
