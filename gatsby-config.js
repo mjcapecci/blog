@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Michael Capecci: Blog`,
+    title: `Michael Capecci ✏️`,
     author: {
       name: `Michael Capecci`,
-      summary: `who lives in the Chicago area and is always trying to dive into new development topics.`,
+      summary: `who lives in the Chicago area and dives into development topics and more.`,
     },
     description: `The blog of Michael Capecci.`,
     siteUrl: "https://optimistic-agnesi-270313.netlify.com/",
@@ -42,6 +42,7 @@ module.exports = {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
           },
+          `gatsby-plugin-sass`,
           `gatsby-remark-prismjs`,
           `gatsby-plugin-netlify-cms`,
           `gatsby-remark-copy-linked-files`,
