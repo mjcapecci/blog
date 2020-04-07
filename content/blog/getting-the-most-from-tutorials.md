@@ -11,6 +11,8 @@ Due to switching between Mac and Windows, and a few other events that caused com
 
 My new goal was to get back up to the point I was at in the tutorial but within my new project. I coded a few things differently in getting back to where I was, and then it hit me. Tutorials are not meant to be followed to the letter. Tutorials may not even be meant to be completed. They are meant to be followed loosely as you work on a separate project altogether.
 
+I am now in a position where I'm developing a similar but largely different game to the one that I initially started in the Ruby 2D tutorial. The results are better than I could have imagined, and real, deep learning is happening at a great pace. I'm done with code-alongs.
+
 ### The Obvious Shortcoming of Tutorial Code-Alongs
 
 Let’s ask ourselves: what are we hoping to have gained from completing a tutorial? Since so many learning resources today center around making a single project, what are we supposed to do with that project once it’s complete? (assuming we did follow the tutorial exactly). Our portfolios are no place for such projects, so, in all likelihood, that application that you just made by coding along with someone is probably going to live exclusively on your hard drive forever. 
