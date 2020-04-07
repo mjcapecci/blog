@@ -25,13 +25,13 @@ In this way, it seems like our time could be better spent by making unique appli
 
 After starting to revamp my view of tutorials, I began to work myself into an interesting pattern with the Ruby 2D tutorial. I have since utilized this pattern in other web development tutorials that I have viewed in the past few weeks. Each section or chapter of a tutorial is likely to be focused around implementing a single feature into the tutorial application. Most often, the name of the chapter will serve as a label for the feature that is to be added. I think it’s a great idea to challenge ourselves by reading the name of that feature and trying to add it into our separate application *completely independently*, and to do as much research and problem-solving as necessary to accomplish that challenge. Afterward, we can watch how the tutorial author implements the feature and compare our solutions.
 
-This method provides an opportunity for every feature of the tutorial project to serve as a massive learning experience. You will have gained so much more from spending the extra time to implement the feature on your own by doing things like reading documentation, searching posts on Stack Overflow, and possibly even asking questions to other developers. Accessing these resources in is an amazing learning experience in itself.
+This method provides an opportunity for every feature of the tutorial project to serve as a massive learning experience. You will have gained so much more from spending the extra time to implement the feature on your own by doing things like reading documentation, searching posts on Stack Overflow, and possibly even asking questions to other developers. Accessing these resources is an amazing learning experience in itself.
 
 ### At What Skill Level Can the Challenge Pattern be Utilized?
 
 I believe it’s true that an absolute beginner can utilize this procedure to amplify his or her learning speed as well as learning quality. When your first course heads into tutorial project #1, that is a good time to start using these strategies. If I could go back, I certainly would do that. At the end of the day, using this method will ensure that you:
 
-* Have something that can be added to your portfolio straightaway
+* Have something that can be added to your portfolio straightaway.
 * Gain bonus experience in the oft-overlooked arena of problem-solving.
 
 ### Conclusion
